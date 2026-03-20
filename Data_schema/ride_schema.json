@@ -1,0 +1,7 @@
+{
+  "ride_id": "integer",
+  "driver_id": "integer",
+  "location": "string",
+  "fare": "double",
+  "timestamp": "long"
+}
